@@ -20,6 +20,7 @@ void Cursor::print()
 		for (int j = 0; j < m; j++) {
 			printf("%2i",arr[i][j]);
 		}
+		puts("");
 	}
 }
 
