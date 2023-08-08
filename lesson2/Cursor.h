@@ -3,7 +3,6 @@
 #include<vector>
 class Cursor
 {
-	int n, m;
 	int num=0;
 	int in, jn;
 	std::vector<std::vector<int>>arr;
