@@ -128,10 +128,12 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Cursor.cpp" />
+    <ClCompile Include="CursorF.cpp" />
     <ClCompile Include="lesson2.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Cursor.h" />
+    <ClInclude Include="CursorF.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

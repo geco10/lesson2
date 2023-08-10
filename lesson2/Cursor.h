@@ -10,5 +10,6 @@ public:
 	Cursor(int n,int m);
 	void print();
 	void move(int i,int j);
-	bool cross(int a);
+	bool check();
+	void cross(int a);
 };
