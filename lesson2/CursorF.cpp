@@ -41,7 +41,7 @@ bool CursorF::check()
 	return true;
 }
 
-void CursorF::cross(int a)
+void CursorF::cross(float a)
 {
 	arr[in + 1][jn] = a;
 	arr[in - 1][jn] = a;

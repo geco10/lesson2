@@ -10,6 +10,6 @@ public:
 	void print();
 	void move(int i, int j);
 	bool check();
-	void cross(int a);
+	void cross(float a);
 };
 
